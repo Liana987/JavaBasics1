@@ -1,4 +1,4 @@
-6package com.syntax.class07;
+package com.syntax.class07;
 
 import java.util.Scanner;
 
