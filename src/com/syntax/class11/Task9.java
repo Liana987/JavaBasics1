@@ -3,28 +3,9 @@ package com.syntax.class11;
 public class Task9 {
 
 	public static void main(String[] args) {
-		//// Write a Java Program to print the first 10 numbers of Fibonacci series.
-		// 0 1 1 2 3 5 8 13 21
-		int previousNumber=0;
-		int currentNumber=1;
-		int nextNumber=0;
-		int numbersToPrint=10;
-		System.out.print(0+" ");
-		System.out.print(1+" ");
+		// TODO Auto-generated method stub
 		
-		for(int i=0; i<numbersToPrint-2;i++) {
-			nextNumber=previousNumber+currentNumber;
-			System.out.print(nextNumber+" ");
-			previousNumber=currentNumber;
-			currentNumber=nextNumber;
-			
-		}
-
-	}
-
-}
-
-//Maximum and minimum number in the array?
+		// Maximum and minimum number in the array?
 		int[] arr= {10,20,50,5,8};
 		
 		int maxNumber=arr[0];
@@ -42,3 +23,9 @@ public class Task9 {
 		
 		System.out.println(maxNumber);
 		System.out.println(minNumber);
+		
+
+	}
+
+}
+

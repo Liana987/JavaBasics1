@@ -19,9 +19,16 @@ public class Task2 {
 		for(String element:countryArray) {
 			if(element.equalsIgnoreCase("usa")) {
 				System.out.println("Washington DC");
-			}else if (element
+			}else if(element.equalsIgnoreCase("turkey")) {
+				System.out.println("Anakara");
+			} else if(element.equalsIgnoreCase("Thailand")) {
+				System.out.println("Bangkok");
+			}else {
+				System.out.println("Contry not supported by My Great java program version 1.0");
+			}
 		}
-
+		scanner.close();
+		
 	}
 
 }

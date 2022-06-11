@@ -33,6 +33,7 @@ public class HWCalculator {
 		operator="Invalid";
 		}
 		if (result != 0 || operator==null) {//when it comes to objects there is a difference between null and " "
+			//null- there is nothing inside the string but with emptu-specified that it exists
 		System.out.println(x + " " + op + " " + y + " = " + result);
 		}
 		scan.close();//data we have coming from somewhere, we need to make sure we use option CLOSE(Scanner is also an object)

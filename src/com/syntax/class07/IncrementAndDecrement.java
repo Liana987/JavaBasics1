@@ -15,7 +15,7 @@ public class IncrementAndDecrement {
 		x--;//decrement value of a variable by 1
 		System.out.println(x);//12
 //incremment and decrement operators  work only with variables
-		//for examle 10++; COMPILER ERROR:INVALID ARGUMENT TO OPERATION ++/--(it has to be a variale)
+		//for examle 10++; COMPILER ERROR:INVALID ARGUMENT TO OPERATION ++/--(it has to be a variable)
 		
 		int num=100;
 		num++;
