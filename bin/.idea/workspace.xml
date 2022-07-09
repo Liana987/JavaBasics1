@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aac0cb29-9465-4c4f-9f94-549781591e21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class08/BreakKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class08/BreakKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class08/FoorLoopExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class08/FoorLoopExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class08/LoopsPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class08/LoopsPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class08/WhenToUseWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class08/WhenToUseWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/ArrayUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/MD2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/MD2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/MethodsDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/MethodsDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/Notes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/Notes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/Task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/VariablesDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/VariablesDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/VariablesDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/VariablesDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/com/syntax/class15/VariablesDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/com/syntax/class15/VariablesDemo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class08/BreakKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class08/BreakKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class08/FoorLoopExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class08/FoorLoopExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class08/LoopsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class08/LoopsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class08/WhenToUseWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class08/WhenToUseWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/MD2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/MD2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/MethodsDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/MethodsDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/VariablesDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/VariablesDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/VariablesDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/VariablesDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class15/VariablesDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class15/VariablesDemo3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ASlScIhPmVluMHD6QlONXJ9tFN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/liana/IdeaProjects/SDETBatch13&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aac0cb29-9465-4c4f-9f94-549781591e21" name="Changes" comment="" />
+      <created>1655010869469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655010869469</updated>
+    </task>
+    <servers />
+  </component>
+</project>
