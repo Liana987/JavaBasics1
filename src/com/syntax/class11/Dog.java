@@ -1,7 +1,7 @@
 package com.syntax.class11;
 
 public class Dog {
-
+	//attributes how the object will look like
 	String name; 
 	int age;
 	double weight;
@@ -10,6 +10,7 @@ public class Dog {
 	String breed;
 	String amountOfShedding;
 	
+	//how that object behave
 	void play() {
 		System.out.println("Dogs like to play.");
 	}

@@ -3,7 +3,7 @@ package com.syntax.class11;
 public class Task7 {
 
 	public static void main(String[] args) {
-		//Write a JAVA program to check whether the fiven number is prime or not?
+		//Write a JAVA program to check whether the given number is prime or not?
 		
 		int x=15;
 		boolean isPrime=true;

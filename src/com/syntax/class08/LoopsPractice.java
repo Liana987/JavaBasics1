@@ -24,7 +24,7 @@ public class LoopsPractice {
 
 		// please do not share the code yet
 
-		int sum1 = 0;
+		int sum1 = 0; 
 		for (int i = 1; i <= 70; i++) {
 			if (i % 2 == 0) {
 				sum1 += i;
@@ -57,5 +57,10 @@ public class LoopsPractice {
 		System.out.println("Sum even numbers is "+sumEven);
 		System.out.println("Sum odd numbers is "+sumOdd);
 
+		
+		
+		
+		
+		
 	}
 }

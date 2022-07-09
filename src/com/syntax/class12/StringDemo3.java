@@ -20,7 +20,7 @@ public class StringDemo3 {
 		System.out.println(name);
 		
 		String query="13";
-		System.out.println(str.contains("query"));
+		System.out.println(str.contains(query));
 		System.out.println(str.contains("is"));
 		System.out.println(str.toLowerCase().contains("batch")); //contains looking for something inside your string
 	

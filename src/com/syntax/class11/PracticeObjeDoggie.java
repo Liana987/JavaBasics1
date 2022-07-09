@@ -8,7 +8,7 @@ public class PracticeObjeDoggie {
 		//attributes how the object will look like
 		String name; 
 		int age;
-		double weight;// properties attributes fields
+		double weight;// called-  properties attributes fields
 		String color;
 		double height;
 		String breed;
@@ -28,7 +28,9 @@ public class PracticeObjeDoggie {
 			//Scanner scanner=new Scanner(System.in);//hold CTRL + "Scanner"
 			//scanner.next();
 			
-			PracticeObjeDoggie jimmy= new PracticeObjeDoggie(); //creat
+			PracticeObjeDoggie jimmy= new PracticeObjeDoggie(); //create an object from the class
+			//new PracticeObjeDoggie() how we create an object
+			//creating an object and storing in a variable
 			jimmy.name="Jimmy";
 			jimmy.age=6;
 			jimmy.weight=16;
@@ -36,7 +38,7 @@ public class PracticeObjeDoggie {
 			jimmy.height=2.6;
 			jimmy.breed="German";
 			jimmy.bark();
-			//new Dog() how we create an object
+			
 		}
 	
 			

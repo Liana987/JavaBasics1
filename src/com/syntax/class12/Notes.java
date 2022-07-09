@@ -51,7 +51,7 @@ in java its convention to call the attributes as fields and call the behaviours 
 Rules:
 1) we can define the fields and methods anywhere in the class.
 2) The sequence of execution only matters when we are inside a method.
-String is most widely used class in java
+String is most widely used class in java 
 		 */
 
 	}

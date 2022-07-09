@@ -20,7 +20,7 @@ public class StringDemo1 {
 			String captain="NAVEED";
 			System.out.println(captain.toLowerCase());
 			captain="I love Java";
-			System.out.println(captain.toUpperCase());
+			System.out.println(captain. 
 	}
 
 }

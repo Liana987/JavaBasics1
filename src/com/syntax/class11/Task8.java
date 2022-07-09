@@ -3,20 +3,24 @@ package com.syntax.class11;
 public class Task8 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		  int num=7;
-		   for (int i=7; i>=1; i--) {
-		   for (int j=1; j<=i; j++) {
-		     System.out.print(j+" ");
-		   }
-		   System.out.println();
-		 }
-		for (int i=2; i<=7; i++) {
-		  for (int j=1; j<=i; j++) {
-		    System.out.print(j+" ");
-		  }
-		  System.out.println();
+		// Write a Java Program to print the first 10 numbers of Fibonacci series.
+		// 0 1 1 2 3 5 8 13 21
+		int previousNumber=0;
+		int currentNumber=1;
+		int nextNumber=0;
+		int numbersToPrint=10;
+		System.out.print(0+" ");
+		System.out.print(1+" ");
+		
+		for(int i=0; i<numbersToPrint-2;i++) {
+			nextNumber=previousNumber+currentNumber;
+			System.out.print(nextNumber+" ");
+			previousNumber=currentNumber;
+			currentNumber=nextNumber;
+			
+		}
+		
 
 	}
 
-}}
+}

@@ -6,7 +6,7 @@ public class ContinueKeyword {
 
 		// continue - skips current execution/iteration
 		// when java executes continue -> 
-		// go back to the beginning of the loop, 
+		// goes back to the beginning of the loop, 
 		// so rest of the code inside loop body
 		// will be skipped/ignored 
 
@@ -25,7 +25,7 @@ public class ContinueKeyword {
 		
 		for(int i=1; i<=10; i++) {
 			
-			if (i==5 || i==7) {
+			if (i==5 || i==7) {//it has to be OR because if it is AND, it would never happen at the same time
 				continue;
 			}
 			
